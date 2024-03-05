@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "502601666521",
+    "project_id": "devates-f549e",
+    "storage_bucket": "devates-f549e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502601666521:android:f57ad7aedb4972ebd7d3c8",
+        "android_client_info": {
+          "package_name": "com.example.devates"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi_WrUM9-L-OiEqIueZEKEuf9ZZGx7k8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
