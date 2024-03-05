@@ -7,10 +7,10 @@ ThemeData darkTheme = ThemeData(
   primaryColor: Colors.black, // Replace with your desired color
 
   // Additional theme properties
-  textTheme: TextTheme(
-    bodyText1: TextStyle(color: Colors.white), // Text color
+  textTheme: const TextTheme(
+    bodyLarge: TextStyle(color: Colors.white), // Text color
   ),
-  appBarTheme: AppBarTheme(
+  appBarTheme: const AppBarTheme(
     backgroundColor: Colors.grey, // App bar color
   ),
   // ... other properties
